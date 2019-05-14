@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861912425238",
+    "firebase_url": "https://getactive-e82d3.firebaseio.com",
+    "project_id": "getactive-e82d3",
+    "storage_bucket": "getactive-e82d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861912425238:android:7c8e6269d2a7dbfb",
+        "android_client_info": {
+          "package_name": "prashantkumar.com.getactive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861912425238-ip2ga3hafgh7gv6kusahsttg5ag046v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prashantkumar.com.getactive",
+            "certificate_hash": "2e2bef61394b51f679555d28f3eae86da00964be"
+          }
+        },
+        {
+          "client_id": "861912425238-pda11v96bepq6j9uf2mig6bnudn1e5gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorCY9czzFZTgcccnyt5yBb-BvyvCJszw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861912425238-pda11v96bepq6j9uf2mig6bnudn1e5gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
